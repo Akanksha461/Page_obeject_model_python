@@ -32,3 +32,10 @@ The files we should be interested in at this point are:
     This is the main file by executing this file all the test script will run accordingly defined in testcases.
 1. [users.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/users.py)
     User file defines all the credentials of user. like login etc.
+    
+### How to execute
+```
+type the below command
+python3 <testpages.py> 
+
+```
