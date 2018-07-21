@@ -3,6 +3,14 @@ Creating Selenium test cases can result in an unmaintainable project. One of the
 
 ![Image of POM](https://i2.wp.com/www.softwaretestingmaterial.com/wp-content/uploads/2017/10/Page-Object-Model-Framework.png?ssl=1)
 
-## Advantanges of poject object model
-code reusabity
-Code maintainability
+## Advantanges of page object model
+* code reusabity
+* Code maintainability
+* Object Repository 
+* Readability
+* Efficient & Scalable
+
+## Disadvantages of page object model
+* High Setup Time & Effort
+* Skilled labor
+* Specific
