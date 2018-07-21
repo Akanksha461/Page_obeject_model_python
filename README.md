@@ -21,8 +21,14 @@ The overall project structure should look like this now:
 The files we should be interested in at this point are:
 
 1. [Base.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/base.py)
+    base file defines all the basic function of selnium which is used in this project. 
 1. [locators.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/locators.py)
+    locator file defines all the locators used in this project.
 1. [pages.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/pages.py)
+    Page file defines all the functions used in testpages according to page.
 1. [testCases.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/testCases.py)
+    From the name itself it is cleared that this file defines all the testcase which is implemented.
 1. [testpages.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/testPages.py)
+    This is the main file by executing this file all the test script will run accordingly defined in testcases.
 1. [users.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/users.py)
+    User file defines all the credentials of user. like login etc.
