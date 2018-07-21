@@ -14,3 +14,15 @@ Creating Selenium test cases can result in an unmaintainable project. One of the
 * High Setup Time & Effort
 * Skilled labor
 * Specific
+
+## Overall Project structure:
+The overall project structure should look like this now:
+
+The files we should be interested in at this point are:
+
+1. [Base.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/base.py)
+1. [locators.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/locators.py)
+1. [pages.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/pages.py)
+1. [testCases.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/testCases.py)
+1. [testpages.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/testPages.py)
+1. [users.py](https://github.com/Akanksha461/Page_obeject_model_python/blob/master/users.py)
