@@ -5,7 +5,7 @@ from testCases import test_cases
 from locators import *
 from selenium.webdriver.common.by import By
 import time
-chrome_path = "/home/leanapps/Downloads/chromedriver"
+chrome_path = "path/of/your/chrome/driver"
 
 # I am using python unittest for asserting cases.
 # In this module, there should be test cases.s
@@ -18,7 +18,7 @@ class TestPages(unittest.TestCase):
         self.driver = webdriver.Chrome(chrome_path)
         self.driver.implicitly_wait(10)
         #time.sleep(2)
-        self.driver.get("http://test.web.infiniarestaurant.com/")
+        self.driver.get("Url of the project")
         #time.sleep(2)
         self.driver.maximize_window()
 
